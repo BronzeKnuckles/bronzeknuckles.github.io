@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'SRIs Blog'
+paginate = 5
+theme = 'PaperMod'
