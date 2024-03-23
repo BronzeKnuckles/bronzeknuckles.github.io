@@ -6,14 +6,23 @@
     <description>Recent content in Posts on SRIs BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Mar 2023 11:30:03 +0000</lastBuildDate>
     <atom:link href="https://bronzeknuckles.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Example</title>
-      <link>https://bronzeknuckles.github.io/posts/example/</link>
+      <title>My Investment Philosophy and Strategy</title>
+      <link>https://bronzeknuckles.github.io/posts/inv-philosophy-and-strategy/</link>
+      <pubDate>Wed, 15 Mar 2023 11:30:03 +0000</pubDate>
+      <guid>https://bronzeknuckles.github.io/posts/inv-philosophy-and-strategy/</guid>
+      <description>I guess this is why I beat the Market</description>
+    </item>
+    <item>
+      <title>Relevance Realization and Investor Performance</title>
+      <link>https://bronzeknuckles.github.io/posts/relevance-realization-and-investor-performance/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://bronzeknuckles.github.io/posts/example/</guid>
-      <description>Desc Text.</description>
+      <guid>https://bronzeknuckles.github.io/posts/relevance-realization-and-investor-performance/</guid>
+      <description>Have you ever wondered why many investors, even top-tier professionals, often don&amp;#39;t achieve the returns they aim for? While there are numerous theories, I&amp;#39;ve explored an intriguing concept from cognitive science that might hold the answer: Relevance Realization.
+This principle, introduced by Dr. John Vervaeke of the University of Toronto, suggests that our ability to discern vital information from noise is at the heart of many investment biases and mistakes.
+From understanding why losses can be more damaging than we think to glean insights from masters like Warren Buffett, this article offers a fresh perspective on decision-making.</description>
     </item>
   </channel>
 </rss>
