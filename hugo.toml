@@ -3,3 +3,12 @@ languageCode = 'en-us'
 title = 'SRIs BLOG'
 paginate = 5
 theme = 'PaperMod'
+
+[homeInfoParams]
+Title = "My Blog"
+Content = """
+-  TODO
+- **TODO**  is designed to beTODO...
+- Feel free to show your support by giving ...TODO... friends and social media .
+- PapeTODO [PapTDOr](https://github.com/bronzeknuckles).
+"""
